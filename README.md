@@ -38,8 +38,8 @@
 - Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/your_username/virtual-memory-bot.git
-cd virtual-memory-bot
+git clone https://github.com/pltnv-a-a/memory-bot.git
+cd memory-bot
 ```
 - Установите зависимости:
   
